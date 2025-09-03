@@ -1,0 +1,3 @@
+- Introducción
+- Requisitos
+- Decisiones de diseño
