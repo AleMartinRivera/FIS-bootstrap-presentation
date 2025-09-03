@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Archivos temporales de Office y editores
+~$*
+*.tmp
+*.swp
+
+# Node/VSCode
+node_modules/
+.vscode/
+
+# Exportados temporales
+*.log
